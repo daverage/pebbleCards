@@ -30,6 +30,21 @@
                 "type": "font"
             },
             {
+                "file": "images/5_Disruptors.png",
+                "name": "IMAGES_5_DISRUPTORS_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/4_Philanthropists.png",
+                "name": "IMAGES_4_PHILANTHROPISTS_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/3_General.png",
+                "name": "IMAGES_3_GENERAL_PNG",
+                "type": "png"
+            },
+            {
                 "file": "images/19_Meaning.png",
                 "name": "IMAGES_19_MEANING_PNG",
                 "type": "png"
