@@ -244,36 +244,38 @@ var cardsObj = { cards : [{
 			img : "IMAGES_42_BOSS_BATTLES_PNG",
 			desc : "Boss battles are a chance to consolidate everything you have learned and mastered in one epic challenge. Usually signals the end of the journey - and the beginning of a new one. "
       }]};
-Accel.init();
-var r=0;
 
+var r=0;
 function loadCard(r){
   card.title(cardsObj.cards[r].category);
   card.subtitle(cardsObj.cards[r].title);
-  card.icon(cardsObj.cards[r].img);
+  card.banner(cardsObj.cards[r].img);
   card.body(cardsObj.cards[r].desc);
 
 }
 
 function loadRandomCard(){
-  var r=Math.floor(Math.random() * cardsObj.cards.length) + 1; 
+  r=Math.floor(Math.random() * cardsObj.cards.length) + 1; 
   loadCard(r);
 }
 
+Accel.init();
+
 card.on('click', function(e) {
+  r++;
   if(e.button=='select'){
     if(r==cardsObj.cards.length-1){
       r=0;
     }
-    r++;
+    
     loadCard(r);
   }
 });
 
 card.on('accelTap', function(e) {
-  loadCard(r);
+  loadRandomCard();
 });
 
-loadRandomCard();
 
+loadRandomCard();
 
