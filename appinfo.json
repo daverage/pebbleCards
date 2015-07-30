@@ -140,7 +140,7 @@
             },
             {
                 "file": "images/50_Social_Network.png",
-                "name": "IMAGES_50_SOCIAL_NETWORK_PNG",
+                "name": "SOCIALNETWORK",
                 "type": "png"
             },
             {
@@ -200,7 +200,7 @@
             },
             {
                 "file": "images/49_Guilds.png",
-                "name": "IMAGES_49_GUILDS_PNG",
+                "name": "49_GUILDS",
                 "type": "png"
             },
             {
