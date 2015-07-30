@@ -60,7 +60,7 @@
             },
             {
                 "file": "images/49_Guilds.png",
-                "name": "IMAGES_49_GUILDS_PNG",
+                "name": "49_GUILDS",
                 "type": "png"
             },
             {
@@ -185,7 +185,7 @@
             },
             {
                 "file": "images/19_Meaning.png",
-                "name": "19_MEANING",
+                "name": "IMAGES_19_MEANING_PNG",
                 "type": "png"
             },
             {
