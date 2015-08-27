@@ -3,8 +3,8 @@
     "capabilities": [
         ""
     ],
-    "companyName": "andrzej@gamified.uk",
-    "longName": "Random Mechanic",
+    "companyName": "Gamified UK",
+    "longName": "Gamified UK Gamification Elements",
     "projectType": "pebblejs",
     "resources": {
         "media": [
@@ -29,63 +29,9 @@
                 "type": "font"
             },
             {
-                "file": "images/6_Free_Spirits.png",
-                "name": "IMAGES_6_FREE_SPIRITS_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/33_Easter_Eggs.png",
-                "name": "IMAGES_33_EASTER_EGGS_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/12_Time_Dependant.png",
-                "name": "IMAGES_12_TIME_DEPENDANT_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/27_Development_Tools.png",
-                "name": "IMAGES_27_DEVELOPMENT_TOOLS_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/32_Choices.png",
-                "name": "IMAGES_32_CHOICES_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/22_Collect.png",
-                "name": "IMAGES_22_COLLECT_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/49_Guilds.png",
-                "name": "IMAGES_49_GUILDS_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/40_Quests.png",
-                "name": "IMAGES_40_QUESTS_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/35_Creativity_Tools.png",
-                "name": "IMAGES_35_CREATIVITY_TOOLS_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/36_Customisation.png",
-                "name": "IMAGES_36_CUSTOMISATION_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/8_Player.png",
-                "name": "IMAGES_8_PLAYER_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/9_Socialisers.png",
-                "name": "IMAGES_9_SOCIALISERS_PNG",
+                "file": "images/pebble icon.png",
+                "menuIcon": true,
+                "name": "IMAGES_PEBBLE_ICON_PNG",
                 "type": "png"
             },
             {
@@ -94,18 +40,13 @@
                 "type": "png"
             },
             {
-                "file": "images/39_Learning.png",
-                "name": "IMAGES_39_LEARNING_PNG",
+                "file": "images/46_Badges.png",
+                "name": "IMAGES_46_BADGES_PNG",
                 "type": "png"
             },
             {
-                "file": "images/42_Boss_Battles.png",
-                "name": "IMAGES_42_BOSS_BATTLES_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/17_Theme.png",
-                "name": "IMAGES_17_THEME_PNG",
+                "file": "images/23_Gifting.png",
+                "name": "IMAGES_23_GIFTING_PNG",
                 "type": "png"
             },
             {
@@ -114,33 +55,33 @@
                 "type": "png"
             },
             {
-                "file": "images/55_Curiosity.png",
-                "name": "IMAGES_55_CURIOSITY_PNG",
+                "file": "images/33_Easter_Eggs.png",
+                "name": "IMAGES_33_EASTER_EGGS_PNG",
                 "type": "png"
             },
             {
-                "file": "images/20_Care_Taking.png",
-                "name": "IMAGES_20_CARE_TAKING_PNG",
+                "file": "images/5_Disruptors.png",
+                "name": "IMAGES_5_DISRUPTORS_PNG",
                 "type": "png"
             },
             {
-                "file": "images/4_Philanthropists.png",
-                "name": "IMAGES_4_PHILANTHROPISTS_PNG",
+                "file": "images/54_Competition.png",
+                "name": "IMAGES_54_COMPETITION_PNG",
                 "type": "png"
             },
             {
-                "file": "images/13_On-Boarding.png",
-                "name": "IMAGES_13_ON_BOARDING_PNG",
+                "file": "images/17_Theme.png",
+                "name": "IMAGES_17_THEME_PNG",
                 "type": "png"
             },
             {
-                "file": "images/46_Badges.png",
-                "name": "IMAGES_46_BADGES_PNG",
+                "file": "images/12_Time_Dependant.png",
+                "name": "IMAGES_12_TIME_DEPENDANT_PNG",
                 "type": "png"
             },
             {
-                "file": "images/37_Challenges.png",
-                "name": "IMAGES_37_CHALLENGES_PNG",
+                "file": "images/7_Acheivers.png",
+                "name": "IMAGES_7_ACHEIVERS_PNG",
                 "type": "png"
             },
             {
@@ -149,8 +90,33 @@
                 "type": "png"
             },
             {
-                "file": "images/44_Prizes.png",
-                "name": "IMAGES_44_PRIZES_PNG",
+                "file": "images/34_Unlockables.png",
+                "name": "IMAGES_34_UNLOCKABLES_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/39_Learning.png",
+                "name": "IMAGES_39_LEARNING_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/37_Challenges.png",
+                "name": "IMAGES_37_CHALLENGES_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/29_Light_Touch.png",
+                "name": "IMAGES_29_LIGHT_TOUCH_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/42_Boss_Battles.png",
+                "name": "IMAGES_42_BOSS_BATTLES_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/40_Quests.png",
+                "name": "IMAGES_40_QUESTS_PNG",
                 "type": "png"
             },
             {
@@ -159,8 +125,18 @@
                 "type": "png"
             },
             {
-                "file": "images/34_Unlockables.png",
-                "name": "IMAGES_34_UNLOCKABLES_PNG",
+                "file": "images/19_Meaning.png",
+                "name": "IMAGES_19_MEANING_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/30_Anarchy.png",
+                "name": "IMAGES_30_ANARCHY_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/55_Curiosity.png",
+                "name": "IMAGES_55_CURIOSITY_PNG",
                 "type": "png"
             },
             {
@@ -169,8 +145,93 @@
                 "type": "png"
             },
             {
-                "file": "images/30_Anarchy.png",
-                "name": "IMAGES_30_ANARCHY_PNG",
+                "file": "images/22_Collect.png",
+                "name": "IMAGES_22_COLLECT_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/44_Prizes.png",
+                "name": "IMAGES_44_PRIZES_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/16_Progress.png",
+                "name": "IMAGES_16_PROGRESS_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/9_Socialisers.png",
+                "name": "IMAGES_9_SOCIALISERS_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/20_Care_Taking.png",
+                "name": "IMAGES_20_CARE_TAKING_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/56_Time_Pressure.png",
+                "name": "IMAGES_56_TIME_PRESSURE_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/35_Creativity_Tools.png",
+                "name": "IMAGES_35_CREATIVITY_TOOLS_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/14_Signposting.png",
+                "name": "IMAGES_14_SIGNPOSTING_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/47_Virtual_Economy.png",
+                "name": "IMAGES_47_VIRTUAL_ECONOMY_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/52_Social_Discovery.png",
+                "name": "IMAGES_52_SOCIAL_DISCOVERY_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/51_Social_Status.png",
+                "name": "IMAGES_51_SOCIAL_STATUS_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/49_Guilds.png",
+                "name": "IMAGES_49_GUILDS_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/36_Customisation.png",
+                "name": "IMAGES_36_CUSTOMISATION_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/25_Innovation.png",
+                "name": "IMAGES_25_INNOVATION_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/10_Random_Rewards.png",
+                "name": "IMAGES_10_RANDOM_REWARDS_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/38_Certificates.png",
+                "name": "IMAGES_38_CERTIFICATES_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/4_Philanthropists.png",
+                "name": "IMAGES_4_PHILANTHROPISTS_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/27_Development_Tools.png",
+                "name": "IMAGES_27_DEVELOPMENT_TOOLS_PNG",
                 "type": "png"
             },
             {
@@ -184,26 +245,6 @@
                 "type": "png"
             },
             {
-                "file": "images/19_Meaning.png",
-                "name": "IMAGES_19_MEANING_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/25_Innovation.png",
-                "name": "IMAGES_25_INNOVATION_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/56_Time_Pressure.png",
-                "name": "IMAGES_56_TIME_PRESSURE_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/15_Loss_Aversion.png",
-                "name": "IMAGES_15_LOSS_AVERSION_PNG",
-                "type": "png"
-            },
-            {
                 "file": "images/53_Social_Pressure.png",
                 "name": "IMAGES_53_SOCIAL_PRESSURE_PNG",
                 "type": "png"
@@ -214,69 +255,8 @@
                 "type": "png"
             },
             {
-                "file": "images/23_Gifting.png",
-                "name": "IMAGES_23_GIFTING_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/5_Disruptors.png",
-                "name": "IMAGES_5_DISRUPTORS_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/29_Light_Touch.png",
-                "name": "IMAGES_29_LIGHT_TOUCH_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/48_Lottery.png",
-                "name": "IMAGES_48_LOTTERY_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/3_General.png",
-                "menuIcon": true,
-                "name": "IMAGES_3_GENERAL_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/54_Competition.png",
-                "name": "IMAGES_54_COMPETITION_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/38_Certificates.png",
-                "name": "IMAGES_38_CERTIFICATES_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/14_Signposting.png",
-                "name": "IMAGES_14_SIGNPOSTING_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/16_Progress.png",
-                "name": "IMAGES_16_PROGRESS_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/50_Social_Network.png",
-                "name": "IMAGES_50_SOCIAL_NETWORK_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/7_Acheivers.png",
-                "name": "IMAGES_7_ACHEIVERS_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/51_Social_Status.png",
-                "name": "IMAGES_51_SOCIAL_STATUS_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/47_Virtual_Economy.png",
-                "name": "IMAGES_47_VIRTUAL_ECONOMY_PNG",
+                "file": "images/13_On-Boarding.png",
+                "name": "IMAGES_13_ON_BOARDING_PNG",
                 "type": "png"
             },
             {
@@ -285,28 +265,54 @@
                 "type": "png"
             },
             {
-                "file": "images/10_Random_Rewards.png",
-                "name": "IMAGES_10_RANDOM_REWARDS_PNG",
-                "type": "png"
-            },
-            {
                 "file": "images/28_Anonymity.png",
                 "name": "IMAGES_28_ANONYMITY_PNG",
                 "type": "png"
             },
             {
-                "file": "images/52_Social_Discovery.png",
-                "name": "IMAGES_52_SOCIAL_DISCOVERY_PNG",
+                "file": "images/6_Free_Spirits.png",
+                "name": "IMAGES_6_FREE_SPIRITS_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/15_Loss_Aversion.png",
+                "name": "IMAGES_15_LOSS_AVERSION_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/3_General.png",
+                "name": "IMAGES_3_GENERAL_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/8_Player.png",
+                "name": "IMAGES_8_PLAYER_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/50_Social_Network.png",
+                "name": "IMAGES_50_SOCIAL_NETWORK_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/48_Lottery.png",
+                "name": "IMAGES_48_LOTTERY_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/32_Choices.png",
+                "name": "IMAGES_32_CHOICES_PNG",
                 "type": "png"
             }
         ]
     },
     "sdkVersion": "3",
-    "shortName": "Random Mechanic",
+    "shortName": "Gamification Elements",
     "uuid": "2fe419b8-98e3-4e6d-b5c6-157feb3426f9",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
+        "hiddenApp": false,
         "watchface": false
     }
 }
