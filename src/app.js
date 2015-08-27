@@ -63,7 +63,7 @@ var cardsObj = { cards : [
 			},{
 			category : "Schedules",
 			title : "Time Dependent Rewards",
-			img : "IMAGES_12_TIME_DEPENDENT_PNG",
+			img : "IMAGES_12_TIME_DEPENDANT_PNG",
 			desc : "Events that happen at specific times (birthdays etc.) or are only available for set period of time (e.g. come back each day for a reward). Users have to be there to benefit."
 			},{
 			category : "Socialiser",
@@ -88,7 +88,7 @@ var cardsObj = { cards : [
 			},{
 			category : "Socialiser",
 			title : "Social Pressure",
-			img : "images/53_SOCIAL_PRESSURE_PNG",
+			img : "IMAGES_53_SOCIAL_PRESSURE_PNG",
 			desc : "People often don’t like feeling they are the odd one out. In a social environment, this can be used to encourage people to be like their friends. Can demotivate if expectations are unrealistic."
 			},{
 			category : "Socialiser",
@@ -128,7 +128,7 @@ var cardsObj = { cards : [
 			},{
 			category : "Achiever",
 			title : "Challenges",
-			img : "IMAGES_37_CHALLENEGES_PNG",
+			img : "IMAGES_37_CHALLENGES_PNG",
 			desc : "Challenges help keep people interested, testing their knowledge and allowing them to apply it. Overcoming challenges will make people feel they have earned their achievement."
 			},{
 			category : "Achiever",
@@ -157,7 +157,7 @@ var cardsObj = { cards : [
 			desc : "Some just need to understand the meaning or the purpose of what they are doing (epic or otherwise). For others they need to feel they are part of something greater than they are."
 			},{
 			category : "Philanthropists",
-			title : "Meaning /  Purpose",
+			title : "Meaning / Purpose",
 			img : "IMAGES_19_MEANING_PNG",
 			desc : "Some just need to understand the meaning or the purpose of what they are doing (epic or otherwise). For others they need to feel they are part of something greater than they are."
 			},{
@@ -177,7 +177,7 @@ var cardsObj = { cards : [
 			desc : "Many people love to collect things. Give them a way to collect and trade items in your system. Helps build relationships and feelings of purpose and value."
 			},{
 			category : "Philanthropists",
-			title : "Gifting /  Sharing",
+			title : "Gifting / Sharing",
 			img : "IMAGES_23_GIFTING_PNG",
 			desc : "Allow gifting or sharing of items to other people to help them achieve their goals. Whilst a form of altruism, the potential for reciprocity can be a strong motivator."
 			},{
